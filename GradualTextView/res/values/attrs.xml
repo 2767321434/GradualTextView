@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<resources>  
+    <declare-styleable name="GradualTextView">    
+        <attr name="firstColor" format="integer"/>  
+        <attr name="nextColor" format="integer"/>  
+        <attr name="delay" format="integer"></attr>    
+    </declare-styleable>   
+</resources>  
